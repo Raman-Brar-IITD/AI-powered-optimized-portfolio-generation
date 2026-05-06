@@ -1,0 +1,8 @@
+Portfolio,Ann_Return_%,Sharpe,Omega,Jensens_Alpha_%
+LSTM Meta-LLM BL,45.13,2.07,1.424,37.99
+Traditional BL,-9.73,-0.291,0.95,-21.91
+Cap Weighted,11.05,0.629,1.117,0.2
+Equally Weighted,11.9,0.634,1.116,0.0
+FinBERT ProsusAI BL,14.74,0.705,1.126,2.38
+FinBERT Yiyanghkust BL,10.1,0.538,1.096,-2.17
+DistilRoBERTa BL,12.87,0.639,1.114,0.58
